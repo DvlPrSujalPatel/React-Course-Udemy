@@ -1,1 +1,1 @@
-# This repository Hitesh choudhary react course followed by me you can use it as notes 
+# This is the code file of hitesh choudhary react course followed by me.
